@@ -7,6 +7,11 @@ Thanks, Danny
 
 ------
 
+## Homework assignment 2: Of course, it's called STEVE...anyway, I think you have laid out an very complete timeline. I'm wondering about STEVE being too much for this project. I don't want to discourage you from pursuing it, but I also don't want this to turn into a Master's thesis project. Perhaps, there's some critical aspects of STEVE that can be modeled, which become obvious fomr your reading. It won't be a problem if your poster talks about STEVE as a phenomenon and then digs into one or two important aspects of STEVE that you model. The reason I'm asking to pump the brakes a little is because it appears that what you might be proposing is a first principles model of STEVE, which I think is a lot more work than I'm asking you to do. In fact, it's probably a pubhlisable results for a reasonably well-known meterological journal. IMO, that's a bit more than I want you to do for this project. So think about what kind of simulation could model some aspects of STEVE (or you can choose the backup plan). Griffth's Ch 11 might be a pretty important starting place for either of them.
+
+* Score 20/20
+
+
 ## Homework assignment 1
 
 Feedback: Laura and Brean, this sounds like a very intersting and cool project. I tihnk you have also already done a fair amount of research into the topic to collect resources that will be helpful. I do worry that you might be biting off a bit more than the project expects as this is not only a project where you would need to model the motion of particles, but also the resulting radiation that they produce. A quick look at some of the resources suggest that these might have come out of master's theses, which is definitely more than I expect for this project. So next week, I'm hoping to see that you have narrowed your ideas down a bit to something tractable given the 7 weeks you have to work on it. Modeling one or another part of this project is fine, so is getting something working that is already been used and talking about how it works. I'm excited to see what you come up with!
