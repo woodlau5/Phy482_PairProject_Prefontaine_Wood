@@ -7,7 +7,15 @@ Thanks, Danny
 
 ------
 
-## Homework assignment 2: Of course, it's called STEVE...anyway, I think you have laid out an very complete timeline. I'm wondering about STEVE being too much for this project. I don't want to discourage you from pursuing it, but I also don't want this to turn into a Master's thesis project. Perhaps, there's some critical aspects of STEVE that can be modeled, which become obvious fomr your reading. It won't be a problem if your poster talks about STEVE as a phenomenon and then digs into one or two important aspects of STEVE that you model. The reason I'm asking to pump the brakes a little is because it appears that what you might be proposing is a first principles model of STEVE, which I think is a lot more work than I'm asking you to do. In fact, it's probably a pubhlisable results for a reasonably well-known meterological journal. IMO, that's a bit more than I want you to do for this project. So think about what kind of simulation could model some aspects of STEVE (or you can choose the backup plan). Griffth's Ch 11 might be a pretty important starting place for either of them.
+## Homework Assignment 3
+
+Feedback: I'm really glad to read that y'all are working so closely together. I think from our conversation on Friday I have a much better sense of what you want to do and I think you have a better sense of what the expectations are (so that you aren't trying to do way more than needed). I tihnk you plan to model the motion of particles in a magnetic field is a good starting point and then you can start thinking about structuring the field to map more appropriately to the Earth's field. One thing I noticed in your graphic is that STEVE appears to happen near the Sub-Auroral zone. So if you get the modeling of particles in fields doesn quickly (i.e., next week), then you might be able to extend and compare the Auroral zoe to the sub Auroral zone in your poster to talk about why STEVE is different. Jsut a thought after reading your writeup. Great work this week.
+
+* Score: 20/20
+
+## Homework assignment 2
+
+Feedback: Of course, it's called STEVE...anyway, I think you have laid out an very complete timeline. I'm wondering about STEVE being too much for this project. I don't want to discourage you from pursuing it, but I also don't want this to turn into a Master's thesis project. Perhaps, there's some critical aspects of STEVE that can be modeled, which become obvious fomr your reading. It won't be a problem if your poster talks about STEVE as a phenomenon and then digs into one or two important aspects of STEVE that you model. The reason I'm asking to pump the brakes a little is because it appears that what you might be proposing is a first principles model of STEVE, which I think is a lot more work than I'm asking you to do. In fact, it's probably a pubhlisable results for a reasonably well-known meterological journal. IMO, that's a bit more than I want you to do for this project. So think about what kind of simulation could model some aspects of STEVE (or you can choose the backup plan). Griffth's Ch 11 might be a pretty important starting place for either of them.
 
 * Score 20/20
 
