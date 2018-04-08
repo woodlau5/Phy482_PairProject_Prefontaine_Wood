@@ -7,6 +7,10 @@ Thanks, Danny
 
 ------
 
+## Homework assignment 4
+
+Feedback: Things look like they are moving along well. Y'all have a good plan for getting the work done and I think that you have made good progress this week with getting a couple of codes working. I'm not worried about your getting something interesting to present. To answer your questions, the VPython module in jupyter is still a bit buggy. You want to have a "scene" call every time you rerurn your code. The "scene" call draws the window and such, so when you only call it once and then try to update it, it won't do it. It should be as simple as adding scene() to the chunk of code that you update...but I can also help you look at that if it's acting strangely. On top of that, the images that it creates are not figures, they are WebGL animations, so it won't convert them to images, it just returns the object name. You can download the LaTeX instead of the PDF and then screencapture the images in the notebook and place them into the LaTeX file to compile a PDF. There's just not a way around this right now because of the type of animation the VPython code produces...you can switch to matplotlib, but you lose the simple animation aspect.
+
 ## Homework Assignment 3
 
 Feedback: I'm really glad to read that y'all are working so closely together. I think from our conversation on Friday I have a much better sense of what you want to do and I think you have a better sense of what the expectations are (so that you aren't trying to do way more than needed). I tihnk you plan to model the motion of particles in a magnetic field is a good starting point and then you can start thinking about structuring the field to map more appropriately to the Earth's field. One thing I noticed in your graphic is that STEVE appears to happen near the Sub-Auroral zone. So if you get the modeling of particles in fields doesn quickly (i.e., next week), then you might be able to extend and compare the Auroral zoe to the sub Auroral zone in your poster to talk about why STEVE is different. Jsut a thought after reading your writeup. Great work this week.
