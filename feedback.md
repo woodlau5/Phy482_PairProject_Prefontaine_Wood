@@ -7,9 +7,17 @@ Thanks, Danny
 
 ------
 
+## Homework assignment 5
+
+Feedback: Great questions this week. The poster should be standard size (4 foot by 3 foot). Regarding your modleing the motion of the particle, you are running into a commomn issue in computational physics, which is what is the best way to deal with the interactions. My suggestion would be to calculate the magnetic field where the charge is, update the force, update the velocity, and then update the position. Otherwise you end up with an issue of calculating the field for the whole space, but this leads to arrays nested into a matrix, which can be annoying. Also, it is problematic if your particle leaves the space where you completed the calculation ahead of time because there's no calculated field out there! If you want to try to debug your some aspect of your code this week, I'm happy to help with that. I would suggest that you try to create a more detailed mock up of your poster for this week as it will be the last week for formal feedback.
+
+* Score: 20/20
+
 ## Homework assignment 4
 
 Feedback: Things look like they are moving along well. Y'all have a good plan for getting the work done and I think that you have made good progress this week with getting a couple of codes working. I'm not worried about your getting something interesting to present. To answer your questions, the VPython module in jupyter is still a bit buggy. You want to have a "scene" call every time you rerurn your code. The "scene" call draws the window and such, so when you only call it once and then try to update it, it won't do it. It should be as simple as adding scene() to the chunk of code that you update...but I can also help you look at that if it's acting strangely. On top of that, the images that it creates are not figures, they are WebGL animations, so it won't convert them to images, it just returns the object name. You can download the LaTeX instead of the PDF and then screencapture the images in the notebook and place them into the LaTeX file to compile a PDF. There's just not a way around this right now because of the type of animation the VPython code produces...you can switch to matplotlib, but you lose the simple animation aspect.
+
+* Score: 20/20
 
 ## Homework Assignment 3
 
