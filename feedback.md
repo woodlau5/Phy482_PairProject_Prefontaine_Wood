@@ -2,10 +2,16 @@ Names: Laura Wood and Brean Prefontaine
 
 ------
 
-I will compile your feedback and scores for the pair projet into this document. Please don't alter this document.
+I will compile your feedback and scores for the pair project into this document. Please don't alter this document.
 Thanks, Danny
 
 ------
+
+## Homework assignment 6
+
+Feedback: The poster draft looks good. I think you have the right balance of text and figures so far. Don't neglect to include the way in which you are doing your modeling (i.e., how you set up the field and how the particle trajectories are found). Also, make sure to add your affiliations, etc. Ok, to the problem with the model...I'm pretty sure what you are running into is a scaling issue. Here's what I mean. You've setup the spacing, time step, and even the way in which you do the integration to solve a problem with a small earth with a strong field. When you change things to a big Earth and a small field, the interactions aren't as strong, so solution might involve different scales of spacing and time steps. And you might not see anything if the integration doesn't run for long enough. In computational physics, what we would do is nondimesionalize the problem (https://en.wikipedia.org/wiki/Nondimensionalization) because then there's usall only one or two scales that matter and you can easily control them. So, you have three options: (1) you can spend a bunch of time trying to find the right scale of your other variables to get it to work, (2) you can work to nondimesionalize your problem and figure out the scaling variable (this might not change your work much), or (3) you can leave it and explore the parameter space as you have it (as this model is a proof of principle model). I would suggest given the time you have doing 3 and then talking about 2 in future work. ;) OI'm really glad y'all have gotten this working.
+
+* Score: 20/20
 
 ## Homework assignment 5
 
